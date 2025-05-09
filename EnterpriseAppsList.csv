@@ -1,0 +1,6 @@
+﻿id,displayName,appId,homepageUrl,createdDateTime,applicationType,accountEnabled,applicationVisibility,assignmentRequired,isAppProxy,identifierUri
+aaa,MS-PIM,01fc33a7-78ba-4d2f-a4b7-768e336e890e,,,Microsoft Application,TRUE,Visible,FALSE,FALSE,
+aaa,Mimecast Email Security Cloud Integrated US,be53e5e0-cb9b-4e77-8ed0-5a9e08c73eab,https://www.mimecast.com/,,Enterprise Application,TRUE,Visible,FALSE,FALSE,
+aaa,Citrix ADC SAML Connector for Microsoft Entra ID,7b0786e6-2558-4b0b-a294-3db9db2a07bc,https://Citrix_ADC_FQDN/CitrixAuthService/AuthService.asmx?metadata=citrixnetscaler|ISV9.2|primary|z,,Enterprise Application,TRUE,Visible,TRUE,FALSE,
+aaa,Slack,cc29dae6-ec2d-49b1-a556-5dadca3c9d19,https://*.slack.com/sso/saml?metadata=slack|ISV9.1|primary|z,,Enterprise Application,TRUE,Visible,TRUE,FALSE,
+aaa,ServiceNow,a2ba090c-3d1e-4161-96d1-590c9468d84e,https://*.service-now.com/*?metadata=servicenow|ISV9.1|primary|z,,Enterprise Application,TRUE,Visible,TRUE,FALSE,

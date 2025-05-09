@@ -1,0 +1,14 @@
+# Example client IDs for Azure application detection
+# Each line contains one client ID in UUID format
+6583ff8c-9c43-450b-a63d-6934afda87b7
+cb41a714-75ad-497a-b028-de92e1e52479
+4585a0a0-6672-48cb-9552-e1e0ed784100
+0e94f0c2-80a2-4505-a297-5e51b6953800
+57b6d444-a89d-4375-ab08-ac1724976895
+f9fc81a0-b5e6-4958-a71a-5c6562fd6a2a
+8364ac2f-1e0c-4271-9e54-3eeca1837c87
+2cfc91a4-7baa-4a8f-a6c9-5f3d279060b8
+9d72b29d-8b62-42dd-a3f6-5c2f93188a7e
+1f66a57e-e80e-4b09-97d5-c0ab2d398a52
+e406a681-f3d4-42a8-90b6-c2b029497af1
+72f988bf-86f1-41af-91ab-2d7cd011db47 
